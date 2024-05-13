@@ -1,5 +1,13 @@
 # python-api-challenge
 Module 6 Challenge UCB Data Bootcamp 2024
+
+
+![mod6_1](https://github.com/juliodelacruzz/python-api-challenge/assets/31105353/c13d30b4-76b4-442c-aaed-6eb158a3d73e)
+
+
+![mod6_2](https://github.com/juliodelacruzz/python-api-challenge/assets/31105353/fb7c308f-ec95-4472-ba99-b8620cf81305)
+
+
 Instructions
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
@@ -136,6 +144,9 @@ The requirements for "Part 2: VacationPy" are the following (30 points)
 Create a map that displays a point for every city in the city_data_df DataFrame (5 points)
 
 Narrow down the city_data_df DataFrame to find your ideal weather condition (5 points)
+
+
+Using class recordings, class examples, online resources, and help from my peers, I was able to complete this module.
 
 For each city in the hotel_df DataFrame, use the Geoapify API to find the first hotel located within 10,000 metres of your coordinates (10 points)
 
